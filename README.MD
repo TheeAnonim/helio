@@ -47,7 +47,7 @@ Script ini digunakan untuk **otomatisasi onboarding Helios Testnet** secara mass
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone https://github.com/TheAnonim/helio
+    git clone https://github.com/TheeAnonim/helio
     cd helio
     ```
 
